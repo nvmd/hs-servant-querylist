@@ -3,7 +3,7 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/nvmd/hs-servant-querylist#readme.md
-license:             Apache 2.0
+license:             Apache-2.0
 license-file:        LICENSE
 author:              Andrew Gibiansky, Sebastian Mandrean, Sergey Kazenyuk
 maintainer:          Sergey Kazenyuk <kazenyuk@gmail.com>
